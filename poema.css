@@ -189,3 +189,12 @@ p {
     transform: scale(2);
   }
 }
+
+.checkbox-group {
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
